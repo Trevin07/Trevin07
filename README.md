@@ -2,8 +2,8 @@
 
 ### I'm Trevin Rodrigo!
 ---
-I'm a student at the University of Colombo,  
-pursuing a degree in Industrial Statistics and Mathematical Finance.  
+ 
+Pursuing a degree in Industrial Statistics and Mathematical Finance.  
 
 I'm passionate about data science and love working on machine learning projects using Regression, Random Forests, Neural Networks, etc.  
 
