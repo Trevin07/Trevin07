@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Hello, I'm Trevin Rodrigo!
+###I'm Trevin Rodrigo!
 ---
 I'm a student at the University of Colombo,  
 pursuing a degree in Industrial Statistics and Mathematical Finance.  
