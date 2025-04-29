@@ -4,7 +4,7 @@
 ---
 🎓 **Pursuing a degree in Industrial Statistics and Mathematical Finance**  
 💡 **Passionate about Data Science, Machine Learning, and Data Visualization**  
-📊 **Experienced in Regression, Random Forests, Neural Networks, and more**  
+ 
 
 I enjoy transforming raw data into meaningful insights through **interactive dashboards** and **predictive models**.  
 My work focuses on **statistical analysis, machine learning, and visualization techniques** to uncover trends and drive data-driven decisions.  
