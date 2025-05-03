@@ -83,7 +83,7 @@ Curious and driven data enthusiast with a strong foundation in statistics and co
   Predicts house prices using regression models with interactive UI.
 
 - 💡 [Fuel Price Impact on Daily Life](https://github.com/Trevin07/global-energy-transition)  
-  End-to-end DS project on how fuel prices affect essential spending.
+  End-to-end DS project on how the global energy transition takes place.
 
 - 📉 [Cost of Living Web Tool](https://github.com/Trevin07/Cost_estimator)  
   Flask web app to estimate living cost based on location, family size, and lifestyle.
