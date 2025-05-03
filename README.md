@@ -12,7 +12,7 @@ Curious and driven data enthusiast with a strong foundation in statistics and da
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Recently Worked On
 
 - 🧠 Cost-of-Living Estimator (ML + Flask)
 - 📊 Climate & Trade Visualization for the Bangladesh Economics Summit
