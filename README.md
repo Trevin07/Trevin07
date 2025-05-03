@@ -82,7 +82,7 @@ Curious and driven data enthusiast with a strong foundation in statistics and da
 - 🏠 [House Price Estimator](https://github.com/Trevin07/House-price-prediction)  
   Predicts house prices using regression models with interactive UI.
 
-- 💡 [Fuel Price Impact on Daily Life](https://github.com/Trevin07/global-energy-transition)  
+- 💡 [Global Energy Consumption](https://github.com/Trevin07/global-energy-transition)  
   End-to-end DS project on how the global energy transition takes place.
 
 - 📉 [Cost of Living Web Tool](https://github.com/Trevin07/Cost_estimator)  
