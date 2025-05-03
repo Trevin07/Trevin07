@@ -23,7 +23,7 @@ Curious and driven data enthusiast with a strong foundation in statistics and da
 ## 🌱 Learning
 
 - Deep Learning & Model Optimization  
-- Azure Machine Learning & SQL for Data Science  
+- Machine Learning & SQL for Data Science  
 - Deployment Techniques for ML Web Apps  
 
 ---
