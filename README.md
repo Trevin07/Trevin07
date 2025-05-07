@@ -13,10 +13,10 @@ Curious and driven data enthusiast with a strong foundation in statistics and da
 ---
 
 ## 🚀 Recently Worked On
-
+- 🏥 Hospital-Readmission Predictor (ML+Flask)
 - 🧠 Cost-of-Living Estimator (ML + Flask)
 - 📊 Climate & Trade Visualization for the Bangladesh Economics Summit
-- 📈 Income Prediction Model using Neural Networks
+- 📈 Income Prediction Model using Neural Networks(ML+Flask)
 
 ---
 
@@ -75,6 +75,9 @@ Curious and driven data enthusiast with a strong foundation in statistics and da
 ---
 
 ## 📊 Projects
+
+- 🏥 [Hospital Readmission Predictor](https://github.com/Trevin07/hospital-readmission-app)  
+  Flask web app that predicts hospital readmission risk using a trained Random Forest model.
 
 - 🔢 [Income Classifier](https://github.com/Trevin07/Income-Prediction)  
   Predicts salary category using ML models & visualizes results in a web app.
