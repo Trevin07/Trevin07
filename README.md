@@ -100,12 +100,10 @@ Model: Polynomial Regression.
 
 📧 **Email**: trevin.rodrigz7@gmail.com  
 
-<table>
-<tr>
-<td><img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="500"/></td>
-</tr>
-</table>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="400" style="display:inline-block;"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBldmw5czd4NmxiNWJwYzFvNjQ2c2FvOXFmYWV1ZHprNTk2NTA4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="400" style="display:inline-block;"/>
+</p>
 ---
 
 _“Data Science: The art of turning data into insights, and the next best thing to a crystal ball!”_ 😄
