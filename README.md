@@ -99,7 +99,6 @@ Model: Polynomial Regression.
 ---
 
 📧 **Email**: trevin.rodrigz7@gmail.com  
-💻 **GitHub**: [Trevin07](https://github.com/Trevin07)
 
 <table>
 <tr>
