@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Trevin Rodrigo
 
 📍 Colombo, Sri Lanka 🇱🇰  
-🎓 BSc in Industrial Statistics & Mathematical Finance  
+🎓 Undergraduate in Industrial Statistics & Mathematical Finance  
 📊 Aspiring Data Scientist | Data-Driven Thinker | Tech Enthusiast  
 
 <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="400"/>
