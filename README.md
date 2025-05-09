@@ -25,6 +25,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9B4F96?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-6F41B8?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3E5C98?style=for-the-badge&logo=plotly&logoColor=white)
