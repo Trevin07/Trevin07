@@ -1,69 +1,41 @@
-# Hello, I'm Trevin Rodrigo 👋
+# 👋 Hello, I'm Trevin Rodrigo
 
-📍 Colombo, Sri Lanka 🇱🇰 
-🎓 Undergraduate in Industrial Statistics & Mathematical Finance  
-🧠 Passionate about Data Science, AI, and Practical Machine Learning  
+📍 Colombo, Sri Lanka 🇱🇰  
+🎓 BSc in Industrial Statistics & Mathematical Finance  
+📊 Aspiring Data Scientist | Data-Driven Thinker | Tech Enthusiast  
 
----
-
-## 💻 About Me
-
-Curious and driven data enthusiast with a strong foundation in statistics and data science. I like  build useful and imapctful machine learning models and deploy them in real-world apps using tools like Flask and Tableau to showcase my projects and let others extract meaningful insights and make better decisions. I aim to use  data and AI to hone my skills which can be applied in the real world.
----
-
-## 🚀 Recently Worked On
-- 🏥 Hospital-Readmission Predictor (ML+Flask)
-- 🧠 Cost-of-Living Estimator (ML + Flask)
-- 📊 Climate & Trade Visualization for the Bangladesh Economics Summit
-- 📈 Income Prediction Model using Neural Networks(ML+Flask)
+<img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="400"/>
 
 ---
 
-## 🌱 Learning
+## 🧠 Tech Stack & Skills
 
-- Deep Learning & Model Optimization  
-- Machine Learning & SQL for Data Science  
-- Deployment Techniques for ML Web Apps  
-- New AI tools which i can leverage to enhance my data journey 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
+### 🛠️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-### 📦 Libraries & Tools for Data Science / ML
+### 📚 Data Science & ML Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge&logo=apache&logoColor=white)
 
----
-
-### 🌐 Web Frameworks
+### 🌐 Web Development & Frameworks
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
 
 ### 🔧 Dev Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
 
 ### ☁️ Cloud, Analytics & Deployment
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -73,35 +45,69 @@ Curious and driven data enthusiast with a strong foundation in statistics and da
 
 ---
 
-## 📊 Projects
+## 🚀 Projects & Applications
 
-- 🏥 [Hospital Readmission Predictor](https://github.com/Trevin07/hospital-readmission-app)  
-  Flask web app that predicts hospital readmission risk using a trained Random Forest model.
+### 🏥 Hospital Readmission Predictor
+**[GitHub Repository](https://github.com/Trevin07/hospital-readmission-app)**  
+Predicts readmission risk.  
+Model: Random Forest.
 
-- 🔢 [Income Classifier](https://github.com/Trevin07/Income-Prediction)  
-  Predicts salary category using ML models & visualizes results in a web app.
+### 🧾 Cost of Living Estimator
+**[GitHub Repository](https://github.com/Trevin07/Cost_estimator)**  
+Estimates city-wise cost of living.  
+Model: Multiple Linear Regression.
 
-- 🏠 [House Price Estimator](https://github.com/Trevin07/House-price-prediction)  
-  Predicts house prices using regression models with interactive UI.
+### 📉 Climate & Trade Visualization
+**[GitHub Repository](https://github.com/Trevin07/climate-trade-visualization)**  
+Tableau dashboard showing climate vs trade trends.
 
-- 💡 [Global Energy Consumption](https://github.com/Trevin07/global-energy-transition)  
-  End-to-end DS project on how the global energy transition takes place.
+### 🔍 Income Classifier Web App
+**[GitHub Repository](https://github.com/Trevin07/Income-Prediction)**  
+Predicts if someone earns above or below $50K.  
+Models: Logistic Regression, SVM, Neural Networks.
 
-- 📉 [Cost of Living Web Tool](https://github.com/Trevin07/Cost_estimator)  
-  Flask web app to estimate living cost based on location, family size, and lifestyle.
+### 🏠 House Price Prediction
+**[GitHub Repository](https://github.com/Trevin07/House-price-prediction)**  
+Predicts housing prices.  
+Model: Polynomial Regression.
+
+### 🧾 Cost of Living Estimator
+**[GitHub Repository](https://github.com/Trevin07/Cost_estimator)**  
+Estimates city-wise cost of living.  
+Model: Multiple Linear Regression.
+
+
+### 💡 Global Energy Analysis
+**[GitHub Repository](https://github.com/Trevin07/global-energy-transition)**  
+Tracks renewable energy trends.  
+Model: Time Series.
+
+### 📉 Climate & Trade Visualization
+**[GitHub Repository](https://github.com/Trevin07/climate-trade-visualization)**  
+Tableau dashboard showing climate vs trade trends.
 
 ---
 
+## 🧠 Current Focus Areas
 
-
-_“Making data practical, human, and powerful.”_
-
-
-
-![My GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWg1c3UxYjlsYnhycmQ2bDZsZ2dnNWttOXR5bDRyeXZhbTd1cnpkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yGE7kAUZxqJEOgcXRi/giphy.gif)
+- **Deep Learning & Optimization**  
+- **Scalable ML Model Building**  
+- **Cloud-Based Deployment with Azure/GCP**
 
 ---
-## 📫 Let's Connect
-- 📧 trevin.rodrigz7@gmail.com 
 
-## You can also find me on **[LinkedIn](https://www.linkedin.com/in/trevin-rodrigo/)**.
+## 📫 Let's Connect!
+
+📧 **Email**: trevin.rodrigz7@gmail.com  
+🔗 **LinkedIn**: [Trevin Rodrigo](https://www.linkedin.com/in/trevin-rodrigo/)  
+💻 **GitHub**: [Trevin07](https://github.com/Trevin07)
+
+<table>
+<tr>
+<td><img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="500"/></td>
+</tr>
+</table>
+
+---
+
+_“Data Science: The art of turning data into insights, and the next best thing to a crystal ball!”_ 😄
