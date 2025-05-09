@@ -57,9 +57,10 @@ Model: Random Forest.
 Estimates city-wise cost of living.  
 Model: Multiple Linear Regression.
 
-### 📉 Climate & Trade Visualization
-**[GitHub Repository](https://github.com/Trevin07/climate-trade-visualization)**  
-Tableau dashboard showing climate vs trade trends.
+### 💡 Global Energy Analysis
+**[GitHub Repository](https://github.com/Trevin07/global-energy-transition)**  
+Tracks renewable energy trends.  
+Model: Time Series.
 
 ### 🔍 Income Classifier Web App
 **[GitHub Repository](https://github.com/Trevin07/Income-Prediction)**  
@@ -76,30 +77,31 @@ Model: Polynomial Regression.
 Estimates city-wise cost of living.  
 Model: Multiple Linear Regression.
 
-
-### 💡 Global Energy Analysis
-**[GitHub Repository](https://github.com/Trevin07/global-energy-transition)**  
-Tracks renewable energy trends.  
-Model: Time Series.
-
-### 📉 Climate & Trade Visualization
-**[GitHub Repository](https://github.com/Trevin07/climate-trade-visualization)**  
-Tableau dashboard showing climate vs trade trends.
-
 ---
 
 ## 🧠 Current Focus Areas
 
 - **Deep Learning & Optimization**  
+  Exploring CNNs, RNNs, transformers, and tuning techniques like Adam optimizer and gradient clipping to improve accuracy and convergence.
+
 - **Scalable ML Model Building**  
-- **Cloud-Based Deployment with Azure/GCP**
+  Building modular, production-ready ML pipelines using `scikit-learn`, `joblib`, and `MLflow`. Focused on reproducibility and performance evaluation.
+
+- **Cloud-Based Deployment with Azure/GCP**  
+  Hosting and deploying ML models using Azure ML Studio, GCP AI Platform, and Heroku. Setting up CI/CD, Docker, and monitoring.
+
+- **End-to-End ML Project Integration**  
+  Handling full ML lifecycle: problem definition, cleaning, modeling, interpretability (with SHAP/LIME), visualization, and production deployment.
 
 ---
 
 ## 📫 Let's Connect!
 
+### 🔗 [**Connect with me on LinkedIn → Trevin Rodrigo**](https://www.linkedin.com/in/trevin-rodrigo/)
+
+---
+
 📧 **Email**: trevin.rodrigz7@gmail.com  
-🔗 **LinkedIn**: [Trevin Rodrigo](https://www.linkedin.com/in/trevin-rodrigo/)  
 💻 **GitHub**: [Trevin07](https://github.com/Trevin07)
 
 <table>
