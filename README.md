@@ -64,7 +64,7 @@ Model: Time Series.
 
 ### 🔍 Income Classifier Web App
 **[GitHub Repository](https://github.com/Trevin07/Income-Prediction)**  
-Predicts if someone earns above or below $50K.  
+Predicts monthly income of a person based on some depenedent variables.  
 Models: Logistic Regression, SVM, Neural Networks.
 
 ### 🏠 House Price Prediction
@@ -72,10 +72,7 @@ Models: Logistic Regression, SVM, Neural Networks.
 Predicts housing prices.  
 Model: Polynomial Regression.
 
-### 🧾 Cost of Living Estimator
-**[GitHub Repository](https://github.com/Trevin07/Cost_estimator)**  
-Estimates city-wise cost of living.  
-Model: Multiple Linear Regression.
+
 
 ---
 
