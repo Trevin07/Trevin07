@@ -24,7 +24,7 @@ Curious and driven data enthusiast with a strong foundation in statistics and da
 - Deep Learning & Model Optimization  
 - Machine Learning & SQL for Data Science  
 - Deployment Techniques for ML Web Apps  
-
+- New AI tools which i can leverage to enhance my data journey 
 ---
 
 ## 🛠️ Tech Stack
