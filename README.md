@@ -8,7 +8,7 @@
 
 ## 💻 About Me
 
-Curious and driven data enthusiast with a strong foundation in statistics and data science. I like to keep building useful and imapctful machine learning models and deploy them in real-world apps using tools like Flask and Tableau. I aim to use  data and AI to hone my skills which can be applied in the real world.
+Curious and driven data enthusiast with a strong foundation in statistics and data science. I like  build useful and imapctful machine learning models and deploy them in real-world apps using tools like Flask and Tableau to showcase my projects and let others extract meaningful insights and make better decisions. I aim to use  data and AI to hone my skills which can be applied in the real world.
 ---
 
 ## 🚀 Recently Worked On
