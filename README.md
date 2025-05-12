@@ -70,7 +70,7 @@ Model: Time Series.
 
 ### 🔍 Income Classifier Web App
 **[GitHub Repository](https://github.com/Trevin07/Income-Prediction)**  
-Predicts monthly income of a person based on some depenedent variables.  
+Predicts monthly income of a person based on key variables.  
 Models: Logistic Regression, SVM, Neural Networks.
 
 ### 🏠 House Price Prediction
