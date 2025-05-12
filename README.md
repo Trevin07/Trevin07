@@ -2,7 +2,8 @@
 
 📍 Colombo, Sri Lanka 🇱🇰  
 🎓 Undergraduate in Industrial Statistics & Mathematical Finance  
-📊 Aspiring Data Scientist | Data-Driven Thinker | Tech Enthusiast  
+📊 Data Science Advocate|Love all things Data 📈
+
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkzc2Q2OGptdTk3OGs3djEydngzdDgwOG1pNGFtcDF4MzdoejhyNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJ8bR5An4VC59FvVcx/giphy.gif" width="400"/>
 
