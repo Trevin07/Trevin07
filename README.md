@@ -53,30 +53,58 @@
 
 ## 🚀 Projects & Applications
 
+
+---
+### 💸 Insurance Cost Estimator
+**[GitHub Repository](https://github.com/Trevin07/insurance_estimator)**  
+A lightweight Flask web app that predicts annual medical insurance charges based on user input like age, BMI, smoking status, and number of children.  
+🧠 **Model Used:** Multiple Linear Regression  
+📊 **Dataset:** Medical Cost Personal Dataset (Kaggle)  
+🛠️ **Tech Stack:** Python, Flask, HTML/CSS, scikit-learn  
+
+---
+
 ### 🏥 Hospital Readmission Predictor
 **[GitHub Repository](https://github.com/Trevin07/hospital-readmission-app)**  
-Predicts readmission risk.  
-Model: Random Forest.
+A web application that predicts the likelihood of a patient being readmitted to the hospital within 30 days based on patient data such as diagnoses, lab results, and demographics.  
+🧠 **Model Used:** Random Forest Classifier  
+🛠️ **Tech Stack:** Python, Flask, HTML/CSS, scikit-learn  
+
+---
 
 ### 🧾 Cost of Living Estimator
 **[GitHub Repository](https://github.com/Trevin07/Cost_estimator)**  
-Estimates city-wise cost of living.  
-Model: Multiple Linear Regression.
+A city-level cost of living prediction tool that estimates the annual cost of living based on inputs like state, metro area, number of parents, children, and whether childcare is needed.  
+🧠 **Model Used:** Multiple Linear Regression  
+📊 **Data Source:** Public economic and lifestyle datasets  
+🛠️ **Tech Stack:** Python, Streamlit, pandas, seaborn  
+
+---
 
 ### 💡 Global Energy Analysis
 **[GitHub Repository](https://github.com/Trevin07/global-energy-transition)**  
-Tracks renewable energy trends.  
-Model: Time Series.
+An interactive dashboard that visualizes trends in global renewable energy production and fossil fuel dependence across decades and countries. It supports analysis of emissions, energy exports, and investments in sustainability.  
+🧠 **Model Used:** Time Series Analysis (ARIMA & Trend Decomposition)  
+📊 **Data Source:** IEA, Our World in Data, UN Comtrade  
+🛠️ **Tech Stack:** Python, Tableau, Jupyter, matplotlib  
+
+---
 
 ### 🔍 Income Classifier Web App
 **[GitHub Repository](https://github.com/Trevin07/Income-Prediction)**  
-Predicts monthly income of a person based on key variables.  
-Models: Logistic Regression, SVM, Neural Networks.
+A classification web app that predicts the  monthly income of a person based on key variables such as education level,age,sector of work etc.  
+🧠 **Models Used:** Logistic Regression, SVM, Neural Network  
+📊 **Dataset:** Adult Census Income Dataset (UCI)  
+🛠️ **Tech Stack:** Python, Flask, HTML/CSS, scikit-learn, TensorFlow  
+
+---
 
 ### 🏠 House Price Prediction
 **[GitHub Repository](https://github.com/Trevin07/House-price-prediction)**  
-Predicts housing prices.  
-Model: Polynomial Regression.
+A machine learning model that estimates real estate property prices in Bengaluru based on variables like area, number of rooms, and location. It includes polynomial regression to capture non-linear trends.  
+🧠 **Model Used:** Polynomial Regression  
+📊 **Dataset:** Kaggle House Prices Dataset  
+🛠️ **Tech Stack:** Python, Jupyter Notebook, pandas, seaborn  
 
 
 
