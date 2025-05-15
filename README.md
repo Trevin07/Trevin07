@@ -55,7 +55,7 @@
 
 
 ---
-### 💸 Insurance Cost Estimator
+### ✍🏽 Insurance Cost Estimator
 **[GitHub Repository](https://github.com/Trevin07/insurance_estimator)**  
 A lightweight Flask web app that predicts annual medical insurance charges based on user input like age, BMI, smoking status, and number of children.  
 🧠 **Model Used:** Multiple Linear Regression  
