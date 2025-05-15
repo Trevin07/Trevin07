@@ -54,16 +54,17 @@
 ## 🚀 Projects & Applications
 
 
+
 ---
-### ✍🏽 Insurance Cost Estimator
+
+### ✍🏽 Insurance Cost Estimator  
 **[GitHub Repository](https://github.com/Trevin07/insurance_estimator)**  
 A lightweight Flask web app that predicts annual medical insurance charges based on user input like age, BMI, smoking status, and number of children.  
-🧠 **Model Used:** XGBoost – chosen for its robustness, speed, and high predictive power in tabular data.
+🧠 **Model Used:** XGBoost – chosen for its robustness, speed, and high predictive power in tabular data.  
 📊 **Dataset:** Medical Cost Personal Dataset (Kaggle)  
-🛠️ **Tech Stack:**Python, Flask, HTML/CSS, XGBoost, scikit-learn, Pandas, NumPy
+🛠️ **Tech Stack:** Python, Flask, HTML/CSS, XGBoost, scikit-learn, Pandas, NumPy  
 
 ---
-
 ### 🏥 Hospital Readmission Predictor
 **[GitHub Repository](https://github.com/Trevin07/hospital-readmission-app)**  
 A web application that predicts the likelihood of a patient being readmitted to the hospital within 30 days based on patient data such as diagnoses, lab results, and demographics.  
