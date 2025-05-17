@@ -4,7 +4,16 @@
 🎓 Undergraduate in Industrial Statistics & Mathematical Finance  
 📊 Data Science Advocate|Love all things Data 📈
 
+---
 
+## 📫 Let's Connect!
+
+### 🔗 [**Connect with me on LinkedIn → Trevin Rodrigo**](https://www.linkedin.com/in/trevin-rodrigo/)
+
+---
+
+📧 **Email**: trevin.rodrigz7@gmail.com  
+---
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkzc2Q2OGptdTk3OGs3djEydngzdDgwOG1pNGFtcDF4MzdoejhyNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJ8bR5An4VC59FvVcx/giphy.gif" width="400"/>
 
 ---
