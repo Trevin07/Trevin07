@@ -136,13 +136,6 @@ A machine learning model that estimates real estate property prices in Bengaluru
 
 ---
 
-## 📫 Let's Connect!
-
-### 🔗 [**Connect with me on LinkedIn → Trevin Rodrigo**](https://www.linkedin.com/in/trevin-rodrigo/)
-
----
-
-📧 **Email**: trevin.rodrigz7@gmail.com  
 
 <p align="left">
   <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="600" />
