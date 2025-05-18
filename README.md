@@ -1,8 +1,11 @@
 # 👋 Hello, I'm Trevin Rodrigo
 
+
 📍 Colombo, Sri Lanka 🇱🇰  
 🎓 Undergraduate in Industrial Statistics & Mathematical Finance  
-📊 Data Science Advocate|Love all things Data 📈
+📊 Data Science Advocate | Love all things Data 📈
+
+🌐 **[Visit My Website → trevinrodrigo.vercel.app](https://trevinrodrigo.vercel.app/)**
 
 ---
 
@@ -62,80 +65,67 @@
 
 ## 🚀 Projects & Applications
 
-
-
----
-
 ### ✍🏽 Insurance Cost Estimator  
 **[GitHub Repository](https://github.com/Trevin07/insurance_estimator)**  
 A lightweight Flask web app that predicts annual medical insurance charges based on user input like age, BMI, smoking status, and number of children.  
-🧠 **Model Used:** XGBoost – chosen for its robustness, speed, and high predictive power in tabular data.  
+🧠 **Model Used:** XGBoost  
 📊 **Dataset:** Medical Cost Personal Dataset (Kaggle)  
 🛠️ **Tech Stack:** Python, Flask, HTML/CSS, XGBoost, scikit-learn, Pandas, NumPy  
 
 ---
-### 🏥 Hospital Readmission Predictor
+
+### 🏥 Hospital Readmission Predictor  
 **[GitHub Repository](https://github.com/Trevin07/hospital-readmission-app)**  
-A web application that predicts the likelihood of a patient being readmitted to the hospital within 30 days based on patient data such as diagnoses, lab results, and demographics.  
-🧠 **Model Used:** Random Forest Classifier  
-🛠️ **Tech Stack:** Python, Flask, HTML/CSS, scikit-learn ,Pandas,Numpy 
+Predicts likelihood of hospital readmission within 30 days based on patient data.  
+🧠 **Model Used:** Random Forest  
+🛠️ **Tech Stack:** Python, Flask, HTML/CSS, scikit-learn, Pandas, NumPy  
 
 ---
 
-### 🧾 Cost of Living Estimator
+### 🧾 Cost of Living Estimator  
 **[GitHub Repository](https://github.com/Trevin07/Cost_estimator)**  
-A city-level cost of living prediction tool that estimates the annual cost of living based on inputs like state, metro area, number of parents, children, and whether childcare is needed.  
+Predicts annual cost of living based on city, household, and childcare factors.  
 🧠 **Model Used:** Multiple Linear Regression  
-📊 **Data Source:** Public economic and lifestyle datasets  
+📊 **Dataset:** Public lifestyle/economic data  
 🛠️ **Tech Stack:** Python, Streamlit, pandas, seaborn  
 
 ---
 
-### 💡 Global Energy Analysis
+### 💡 Global Energy Analysis  
 **[GitHub Repository](https://github.com/Trevin07/global-energy-transition)**  
-An interactive dashboard that visualizes trends in global renewable energy production and fossil fuel dependence across decades and countries. It supports analysis of emissions, energy exports, and investments in sustainability.  
-🧠 **Model Used:** Time Series Analysis (ARIMA & Trend Decomposition)  
-📊 **Data Source:** IEA, Our World in Data, UN Comtrade  
-🛠️ **Tech Stack:** Python, Tableau, Jupyter, matplotlib  
+Dashboard to explore global energy trends, emissions, and renewable investments.  
+🧠 **Model Used:** Time Series (ARIMA)  
+📊 **Data Source:** IEA, UN Comtrade, Our World in Data  
+🛠️ **Tech Stack:** Python, Tableau, Jupyter  
 
 ---
 
-### 🔍 Income Classifier Web App
+### 🔍 Income Classifier Web App  
 **[GitHub Repository](https://github.com/Trevin07/Income-Prediction)**  
-A classification web app that predicts the  monthly income of a person based on key variables such as education level,age,sector of work etc.  
+Predicts income level using census and education/work data.  
 🧠 **Models Used:** Logistic Regression, SVM, Neural Network  
-📊 **Dataset:** Adult Census Income Dataset (UCI)  
-🛠️ **Tech Stack:** Python, Flask, HTML/CSS, scikit-learn, TensorFlow  
+📊 **Dataset:** Adult Census (UCI)  
+🛠️ **Tech Stack:** Python, Flask, scikit-learn, TensorFlow  
 
 ---
 
-### 🏠 House Price Prediction
+### 🏠 House Price Prediction  
 **[GitHub Repository](https://github.com/Trevin07/House-price-prediction)**  
-A machine learning model that estimates real estate property prices in Bengaluru based on variables like area, number of rooms, and location. It includes polynomial regression to capture non-linear trends.  
+Estimates Bengaluru property prices using regression.  
 🧠 **Model Used:** Polynomial Regression  
-📊 **Dataset:** Kaggle House Prices Dataset  
-🛠️ **Tech Stack:** Python, Jupyter Notebook, pandas, seaborn  
-
-
+📊 **Dataset:** Kaggle  
+🛠️ **Tech Stack:** Python, pandas, seaborn  
 
 ---
 
 ## 🧠 Current Focus Areas
 
-- **Deep Learning & Optimization**  
-  Exploring CNNs, RNNs, transformers, and tuning techniques like Adam optimizer and gradient clipping to improve accuracy and convergence.
-
-- **Scalable ML Model Building**  
-  Building modular, production-ready ML pipelines using `scikit-learn`, `joblib`, and `MLflow`. Focused on reproducibility and performance evaluation.
-
-- **Cloud-Based Deployment with Azure/GCP**  
-  Hosting and deploying ML models using Azure ML Studio, GCP AI Platform, and Heroku. Setting up CI/CD, Docker, and monitoring.
-
-- **End-to-End ML Project Integration**  
-  Handling full ML lifecycle: problem definition, cleaning, modeling, interpretability (with SHAP/LIME), visualization, and production deployment.
+- **Deep Learning & Optimization:** CNNs, RNNs, transformers, Adam optimizer  
+- **Scalable ML Pipelines:** joblib, MLflow, reproducible training  
+- **Cloud Deployment:** Azure ML, GCP AI Platform, Heroku  
+- **End-to-End ML Lifecycle:** From data cleaning to model interpretability (SHAP, LIME)
 
 ---
-
 
 <p align="left">
   <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="600" />
