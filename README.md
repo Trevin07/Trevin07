@@ -5,7 +5,7 @@
 🎓 Undergraduate in Industrial Statistics & Mathematical Finance  
 📊 Data Science Advocate | Love all things Data 📈
 
-🌐 **[Visit My Website → trevinrodrigo.vercel.app](https://trevinrodrigo.vercel.app/)**
+🌐 **[Visit My Website → trevin-rodrigo-eco8.vercel.app](https://trevin-rodrigo-eco8.vercel.app/)**
 
 ---
 
