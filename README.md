@@ -64,7 +64,20 @@
 ---
 
 ## 🚀 Projects & Applications
+---
+### 📈📉 Time Series Stock Price Forecasting API  
+**[GitHub Repository](https://github.com/Trevin07/stock-predictor)**  
+A FastAPI-powered web API that forecasts future stock prices using historical data and time series models.  
 
+🧠 **Models Used:** Facebook Prophet, ARIMA  
+📊 **Dataset:** Real-time financial data via yfinance  
+🛠️ **Tech Stack:** Python, FastAPI, Prophet, statsmodels, yfinance, Pandas, NumPy, Matplotlib, Uvicorn  
+📦 **Stocks Forecasted:**  
+🍎 Apple (AAPL), 🔎 Alphabet (GOOGL), 🪟 Microsoft (MSFT), 🛒 Amazon (AMZN), ⚡ Tesla (TSLA), 📺 Netflix (NFLX), 🔵 Meta (META), 💻 NVIDIA (NVDA)  
+
+
+
+---
 ### ✍🏽 Insurance Cost Estimator  
 **[GitHub Repository](https://github.com/Trevin07/insurance_estimator)**  
 A lightweight Flask web app that predicts annual medical insurance charges based on user input like age, BMI, smoking status, and number of children.  
