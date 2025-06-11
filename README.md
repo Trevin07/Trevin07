@@ -23,45 +23,94 @@
 
 ## 🧠 Tech Stack & Skills
 
-### 🛠️ Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Live & Animated Tech Stack -->
+<h2 align="center">🚀 My Data Science Toolkit (2025)</h2>
 
-### 📚 Data Science & ML Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logo=xgboost&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-9B4F96?style=for-the-badge&logo=seaborn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-6F41B8?style=for-the-badge&logo=huggingface&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3E5C98?style=for-the-badge&logo=plotly&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<style>
+  .tech-table td {
+    padding: 15px;
+  }
 
-### 🌐 Web Development & Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  .tech-icon {
+    transition: transform 0.3s ease;
+  }
 
-### 🔧 Dev Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  .tech-icon:hover {
+    transform: scale(1.2);
+  }
 
-### ☁️ Cloud, Analytics & Deployment
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+  .tech-label {
+    font-size: 14px;
+    margin-top: 8px;
+    display: block;
+  }
+</style>
 
----
+<!-- Programming Languages -->
+<h3>🛠️ Programming Languages</h3>
+<table class="tech-table">
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" class="tech-icon"/><span class="tech-label">Python</span></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" class="tech-icon"/><span class="tech-label">JavaScript</span></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" class="tech-icon"/><span class="tech-label">R</span></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" class="tech-icon"/><span class="tech-label">SQL</span></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" class="tech-icon"/><span class="tech-label">HTML5</span></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" class="tech-icon"/><span class="tech-label">CSS3</span></td>
+  </tr>
+</table>
+
+<!-- Data Science Libraries -->
+<h3>📚 Data Science & ML Libraries</h3>
+<table class="tech-table">
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" class="tech-icon"/><span class="tech-label">NumPy</span></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" class="tech-icon"/><span class="tech-label">Pandas</span></td>
+    <td><img src="https://matplotlib.org/_static/images/logo2.svg" width="50" class="tech-icon"/><span class="tech-label">Matplotlib</span></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" class="tech-icon"/><span class="tech-label">Scikit-learn</span></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" class="tech-icon"/><span class="tech-label">TensorFlow</span></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" class="tech-icon"/><span class="tech-label">Keras</span></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/dmlc/xgboost/main/doc/fig/xgboost-logo.png" width="50" class="tech-icon"/><span class="tech-label">XGBoost</span></td>
+    <td><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" class="tech-icon"/><span class="tech-label">Seaborn</span></td>
+    <td><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" class="tech-icon"/><span class="tech-label">Hugging Face</span></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Plotly-logo-01-square.png" width="50" class="tech-icon"/><span class="tech-label">Plotly</span></td>
+    <td><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" class="tech-icon"/><span class="tech-label">FastAPI</span></td>
+  </tr>
+</table>
+
+<!-- Web Dev -->
+<h3>🌐 Web Development</h3>
+<table class="tech-table">
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" class="tech-icon"/><span class="tech-label">Flask</span></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" class="tech-icon"/><span class="tech-label">PHP</span></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" class="tech-icon"/><span class="tech-label">Bootstrap</span></td>
+  </tr>
+</table>
+
+<!-- Dev Tools -->
+<h3>🔧 Dev Tools & IDEs</h3>
+<table class="tech-table">
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" class="tech-icon"/><span class="tech-label">Git</span></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" class="tech-icon"/><span class="tech-label">GitHub</span></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" class="tech-icon"/><span class="tech-label">Jupyter</span></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" class="tech-icon"/><span class="tech-label">VS Code</span></td>
+  </tr>
+</table>
+
+<!-- Cloud & Analytics -->
+<h3>☁️ Cloud & Analytics</h3>
+<table class="tech-table">
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" class="tech-icon"/><span class="tech-label">Azure</span></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50" class="tech-icon"/><span class="tech-label">Heroku</span></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" class="tech-icon"/><span class="tech-label">GCP</span></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" class="tech-icon"/><span class="tech-label">Tableau</span></td>
+  </tr>
+</table>
+
 
 ## 🚀 Projects & Applications
 ---
