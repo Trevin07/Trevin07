@@ -21,8 +21,6 @@
 
 ## 🚀 My Data Science Toolkit (2025)
 
-## 🚀 My Data Science Toolkit (2025)
-
 ---
 
 ### 🛠️ Programming Languages
