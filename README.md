@@ -19,23 +19,12 @@
 
 ---
 
-## 🚀 My Data Science Toolkit (2025)
-
----
-
-### 🛠️ Programming Languages
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <br> **Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> <br> **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/> <br> **R** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> <br> **SQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> <br> **HTML5** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> <br> **CSS3** |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-
----
-
 ### 📚 Data Science & ML Libraries
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/> <br> **NumPy** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/> <br> **Pandas** | <img src="https://matplotlib.org/_static/images/logo2.svg" height="40"/> <br> **Matplotlib** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/> <br> **Scikit-learn** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/> <br> **TensorFlow** | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40"/> <br> **Keras** |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://raw.githubusercontent.com/dmlc/xgboost/main/doc/fig/xgboost-logo.png" height="40"/> <br> **XGBoost** | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40"/> <br> **Seaborn** | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40"/> <br> **Hugging Face** | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Plotly-logo-01-square.png" height="40"/> <br> **Plotly** | <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40"/> <br> **FastAPI** | |
-
+| <img src="https://raw.githubusercontent.com/dmlc/xgboost/main/doc/fig/xgboost-logo.png" height="40"/> <br> **XGBoost** | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40"/> <br> **Seaborn** | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40"/> <br> **Hugging Face** | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Plotly-logo-01-square.png" height="40"/> <br> **Plotly** | <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40"/> <br> **FastAPI** | <img src="https://avatars.githubusercontent.com/u/6191866?s=200&v=4" height="40"/> <br> **Prophet** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Stats_icon.png" height="40"/> <br> **ARIMA (statsmodels)** |  |  |  |  |  |
 
 ---
 
@@ -57,6 +46,13 @@
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/> <br> **Azure** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40"/> <br> **Heroku** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/> <br> **GCP** | <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40"/> <br> **Tableau** |
 |:--:|:--:|:--:|:--:|
+
+---
+
+### 🐳 Containerization
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/> <br> **Docker** |
+|:--:|
 
 
 ---
