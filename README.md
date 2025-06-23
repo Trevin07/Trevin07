@@ -10,135 +10,126 @@
 
 ## 📫 Let's Connect!
 
-- 🔗 [**LinkedIn → Trevin Rodrigo**](https://www.linkedin.com/in/trevin-rodrigo/)  
-- 📧 **Email**: trevin.rodrigo10@gmail.com
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="120">](https://www.linkedin.com/in/trevin-rodrigo/)
+[<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" width="120">](mailto:trevin.rodrigo10@gmail.com)
 
 ---
 
-<img src="https://media.giphy.com/media/QJ8bR5An4VC59FvVcx/giphy.gif" width="400" align="center"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/QJ8bR5An4VC59FvVcx/giphy.gif" width="400"/>
+</p>
 
 ---
 
-### 📚 Data Science & ML Libraries
+## 📚 Data Science & ML Stack
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/> <br> **NumPy** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/> <br> **Pandas** | <img src="https://matplotlib.org/_static/images/logo2.svg" height="40"/> <br> **Matplotlib** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/> <br> **Scikit-learn** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/> <br> **TensorFlow** | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40"/> <br> **Keras** |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://raw.githubusercontent.com/dmlc/xgboost/main/doc/fig/xgboost-logo.png" height="40"/> <br> **XGBoost** | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40"/> <br> **Seaborn** | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40"/> <br> **Hugging Face** | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Plotly-logo-01-square.png" height="40"/> <br> **Plotly** | <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40"/> <br> **FastAPI** | <img src="https://avatars.githubusercontent.com/u/6191866?s=200&v=4" height="40"/> <br> **Prophet** |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Stats_icon.png" height="40"/> <br> **ARIMA (statsmodels)** |  |  |  |  |  |
-
----
-
-### 🌐 Web Development
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/> <br> **Flask** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/> <br> **PHP** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/> <br> **Bootstrap** |
-|:--:|:--:|:--:|
-
----
-
-### 🔧 Tools & IDEs
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/> <br> **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> <br> **GitHub** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/> <br> **Jupyter** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/> <br> **VS Code** |
-|:--:|:--:|:--:|:--:|
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="80" title="NumPy">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80" title="Pandas">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="80" title="Matplotlib">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" title="Scikit-learn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="80" title="TensorFlow">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="80" title="Keras">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="80" title="XGBoost">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" title="Seaborn">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="80" title="Hugging Face">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" width="80" title="Plotly">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="80" title="FastAPI">
+  <img src="https://facebook.github.io/prophet/static/logo.png" width="80" title="Prophet">
+  <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" width="80" title="Statsmodels">
+  <img src="https://hadoop.apache.org/hadoop-logo.jpg" width="80" title="Hadoop">
+</p>
 
 ---
 
-### ☁️ Cloud & Analytics
+## 🌐 Web Development Stack
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/> <br> **Azure** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40"/> <br> **Heroku** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/> <br> **GCP** | <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40"/> <br> **Tableau** |
-|:--:|:--:|:--:|:--:|
-
----
-
-### 🐳 Containerization
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/> <br> **Docker** |
-|:--:|
-
+<p align="center">
+  <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" width="80" title="Flask">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="80" title="PHP">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="80" title="Bootstrap">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="80" title="Streamlit">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="80" title="HTML5">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="80" title="CSS3">
+</p>
 
 ---
 
-## 🚀 Projects & Applications
+## 🔧 Tools & IDEs
+
+<p align="center">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80" title="Git">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" title="GitHub">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="80" title="Jupyter">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="80" title="VS Code">
+  <img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" width="80" title="MLflow">
+  <img src="https://www.uvicorn.org/_static/uvicorn.png" width="80" title="Uvicorn">
+  <img src="https://joblib.readthedocs.io/en/latest/_static/joblib_logo.svg" width="80" title="Joblib">
+</p>
 
 ---
-### 📈📉 Time Series Stock Price Forecasting API  
-**[GitHub Repository](https://github.com/Trevin07/stock-predictor)**  
-A FastAPI-powered web API that forecasts future stock prices using historical data and time series models.  
 
-🧠 **Models Used:** Facebook Prophet, ARIMA  
-📊 **Dataset:** Real-time financial data via yfinance  
-🛠️ **Tech Stack:** Python, FastAPI, Prophet, statsmodels, yfinance, Pandas, NumPy, Matplotlib, Uvicorn  
-📦 **Stocks Forecasted:**  
-🍎 Apple (AAPL), 🔎 Alphabet (GOOGL), 🪟 Microsoft (MSFT), 🛒 Amazon (AMZN), ⚡ Tesla (TSLA), 📺 Netflix (NFLX), 🔵 Meta (META), 💻 NVIDIA (NVDA)  
+## 🤖 AI Platforms
 
-
-
----
-### ✍🏽 Insurance Cost Estimator  
-**[GitHub Repository](https://github.com/Trevin07/insurance_estimator)**  
-A lightweight Flask web app that predicts annual medical insurance charges based on user input like age, BMI, smoking status, and number of children.  
-🧠 **Model Used:** XGBoost  
-📊 **Dataset:** Medical Cost Personal Dataset (Kaggle)  
-🛠️ **Tech Stack:** Python, Flask, HTML/CSS, XGBoost, scikit-learn, Pandas, NumPy  
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="80" title="OpenAI">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="80" title="ChatGPT">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Claude_AI_logo.png" width="80" title="Claude">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Google_Bard_logo.png" width="80" title="Gemini">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Perplexity_AI_logo.png" width="80" title="Perplexity">
+</p>
 
 ---
+
+## ☁️ Cloud & Analytics
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="80" title="Azure">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg" width="80" title="Heroku">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="80" title="GCP">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="80" title="Tableau">
+</p>
+
+---
+
+## 🐳 Containerization
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="80" title="Docker">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📈 Stock Price Forecasting API  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20"> GitHub](https://github.com/Trevin07/stock-predictor)  
+FastAPI-powered stock prediction using Prophet and ARIMA  
 
 ### 🏥 Hospital Readmission Predictor  
-**[GitHub Repository](https://github.com/Trevin07/hospital-readmission-app)**  
-Predicts likelihood of hospital readmission within 30 days based on patient data.  
-🧠 **Model Used:** Random Forest  
-🛠️ **Tech Stack:** Python, Flask, HTML/CSS, scikit-learn, Pandas, NumPy  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20"> GitHub](https://github.com/Trevin07/hospital-readmission-app)  
+Flask app predicting 30-day readmission risk  
+
+### 🌍 Global Energy Analysis  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20"> GitHub](https://github.com/Trevin07/global-energy-transition)  
+Tableau dashboard with ARIMA forecasting  
 
 ---
 
-### 🧾 Cost of Living Estimator  
-**[GitHub Repository](https://github.com/Trevin07/Cost_estimator)**  
-Predicts annual cost of living based on city, household, and childcare factors.  
-🧠 **Model Used:** Multiple Linear Regression  
-📊 **Dataset:** Public lifestyle/economic data  
-🛠️ **Tech Stack:** Python, Streamlit, pandas, seaborn  
+## 🧠 Currently Exploring
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/PyTorch_logo_black.svg" width="80" title="PyTorch">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" title="Scikit-learn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="80" title="SQLite">
+</p>
 
 ---
 
-### 💡 Global Energy Analysis  
-**[GitHub Repository](https://github.com/Trevin07/global-energy-transition)**  
-Dashboard to explore global energy trends, emissions, and renewable investments.  
-🧠 **Model Used:** Time Series (ARIMA)  
-📊 **Data Source:** IEA, UN Comtrade, Our World in Data  
-🛠️ **Tech Stack:** Python, Tableau, Jupyter  
-
----
-
-### 🔍 Income Classifier Web App  
-**[GitHub Repository](https://github.com/Trevin07/Income-Prediction)**  
-Predicts income level using census and education/work data.  
-🧠 **Models Used:** Logistic Regression, SVM, Neural Network  
-📊 **Dataset:** Adult Census (UCI)  
-🛠️ **Tech Stack:** Python, Flask, scikit-learn, TensorFlow  
-
----
-
-### 🏠 House Price Prediction  
-**[GitHub Repository](https://github.com/Trevin07/House-price-prediction)**  
-Estimates Bengaluru property prices using regression.  
-🧠 **Model Used:** Polynomial Regression  
-📊 **Dataset:** Kaggle  
-🛠️ **Tech Stack:** Python, pandas, seaborn  
-
----
-
-## 🧠 Current Focus Areas
-
-- **Deep Learning & Optimization:** CNNs, RNNs, transformers, Adam optimizer  
-- **Scalable ML Pipelines:** joblib, MLflow, reproducible training  
-- **Cloud Deployment:** Azure ML, GCP AI Platform, Heroku  
-- **End-to-End ML Lifecycle:** From data cleaning to model interpretability (SHAP, LIME)
-
----
-
-<p align="left">
+<p align="center">
   <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="600" />
 </p>
 
 ---
 
-_“Data Science: The art of turning data into insights, and the next best thing to a crystal ball!”_ 😄
+_"Turning data into decisions, one model at a time!"_ 📊✨
