@@ -10,8 +10,15 @@
 
 ## 📫 Let's Connect!
 
-[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="120">](https://www.linkedin.com/in/trevin-rodrigo/)
-[<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" width="120">](mailto:trevin.rodrigo10@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/trevin-rodrigo/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:trevin.rodrigo10@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" title="Email"/>
+  </a>
+</p>
 
 ---
 
@@ -21,115 +28,149 @@
 
 ---
 
-## 📚 Data Science & ML Stack
+# 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="80" title="NumPy">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80" title="Pandas">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="80" title="Matplotlib">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" title="Scikit-learn">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="80" title="TensorFlow">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="80" title="Keras">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="80" title="XGBoost">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" title="Seaborn">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="80" title="Hugging Face">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" width="80" title="Plotly">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="80" title="FastAPI">
-  <img src="https://facebook.github.io/prophet/static/logo.png" width="80" title="Prophet">
-  <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" width="80" title="Statsmodels">
-  <img src="https://hadoop.apache.org/hadoop-logo.jpg" width="80" title="Hadoop">
-</p>
+## 📊 Data Science & Machine Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Prophet-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Prophet">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+</div>
 
----
+## 🌐 Web Development
+<div align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</div>
 
-## 🌐 Web Development Stack
+## ☁️ Cloud & Deployment
+<div align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+</div>
 
-<p align="center">
-  <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" width="80" title="Flask">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="80" title="PHP">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="80" title="Bootstrap">
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="80" title="Streamlit">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="80" title="HTML5">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="80" title="CSS3">
-</p>
+## 🛠️ Tools & Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Uvicorn-09092A?style=for-the-badge&logo=python&logoColor=white" alt="Uvicorn">
+  <img src="https://img.shields.io/badge/Joblib-467fcf?style=for-the-badge&logo=python&logoColor=white" alt="Joblib">
+</div>
 
----
+## 🧠 AI Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Claude-fff?style=for-the-badge&logo=anthropic&logoColor=black" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Perplexity-1919FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIyNCIgY3k9IjI0IiByPSIyNCIgZmlsbD0iIzE5MTlGRiIvPjwvc3ZnPg==" alt="Perplexity">
+</div>
 
-## 🔧 Tools & IDEs
+## 🚀 Projects & Applications
 
-<p align="center">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80" title="Git">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" title="GitHub">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="80" title="Jupyter">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="80" title="VS Code">
-  <img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" width="80" title="MLflow">
-  <img src="https://www.uvicorn.org/_static/uvicorn.png" width="80" title="Uvicorn">
-  <img src="https://joblib.readthedocs.io/en/latest/_static/joblib_logo.svg" width="80" title="Joblib">
-</p>
+### 📈📉 Time Series Stock Price Forecasting API  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Trevin07/stock-predictor)  
 
----
-
-## 🤖 AI Platforms
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="80" title="OpenAI">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="80" title="ChatGPT">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Claude_AI_logo.png" width="80" title="Claude">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Google_Bard_logo.png" width="80" title="Gemini">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Perplexity_AI_logo.png" width="80" title="Perplexity">
-</p>
-
----
-
-## ☁️ Cloud & Analytics
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="80" title="Azure">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg" width="80" title="Heroku">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="80" title="GCP">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="80" title="Tableau">
-</p>
-
----
-
-## 🐳 Containerization
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="80" title="Docker">
-</p>
+A FastAPI-powered web API that forecasts future stock prices using historical data and time series models.  
+🧠 **Models Used:** Facebook Prophet, ARIMA  
+📊 **Dataset:** Real-time financial data via yfinance  
+🛠️ **Tech Stack:** Python, FastAPI, Prophet, statsmodels, yfinance, Pandas, NumPy, Matplotlib, Uvicorn  
+📦 **Stocks Forecasted:**  
+🍎 Apple (AAPL), 🔎 Alphabet (GOOGL), 🪟 Microsoft (MSFT), 🛒 Amazon (AMZN), ⚡ Tesla (TSLA), 📺 Netflix (NFLX), 🔵 Meta (META), 💻 NVIDIA (NVDA)  
 
 ---
 
-## 🚀 Featured Projects
+### ✍🏽 Insurance Cost Estimator  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Trevin07/insurance_estimator)  
 
-### 📈 Stock Price Forecasting API  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20"> GitHub](https://github.com/Trevin07/stock-predictor)  
-FastAPI-powered stock prediction using Prophet and ARIMA  
+A lightweight Flask web app that predicts annual medical insurance charges based on user input.  
+🧠 **Model Used:** XGBoost  
+📊 **Dataset:** Medical Cost Personal Dataset (Kaggle)  
+🛠️ **Tech Stack:** Python, Flask, HTML/CSS, XGBoost, scikit-learn, Pandas, NumPy  
+
+---
 
 ### 🏥 Hospital Readmission Predictor  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20"> GitHub](https://github.com/Trevin07/hospital-readmission-app)  
-Flask app predicting 30-day readmission risk  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Trevin07/hospital-readmission-app)  
 
-### 🌍 Global Energy Analysis  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20"> GitHub](https://github.com/Trevin07/global-energy-transition)  
-Tableau dashboard with ARIMA forecasting  
+Predicts likelihood of hospital readmission within 30 days based on patient data.  
+🧠 **Model Used:** Random Forest  
+🛠️ **Tech Stack:** Python, Flask, HTML/CSS, scikit-learn, Pandas, NumPy  
 
 ---
 
-## 🧠 Currently Exploring
+### 🧾 Cost of Living Estimator  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Trevin07/Cost_estimator)  
+
+Predicts annual cost of living based on city, household, and childcare factors.  
+🧠 **Model Used:** Multiple Linear Regression  
+📊 **Dataset:** Public lifestyle/economic data  
+🛠️ **Tech Stack:** Python, Streamlit, pandas, seaborn  
+
+---
+
+### 💡 Global Energy Analysis  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Trevin07/global-energy-transition)  
+
+Dashboard to explore global energy trends, emissions, and renewable investments.  
+🧠 **Model Used:** Time Series (ARIMA)  
+📊 **Data Source:** IEA, UN Comtrade, Our World in Data  
+🛠️ **Tech Stack:** Python, Tableau, Jupyter  
+
+---
+
+### 🔍 Income Classifier Web App  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Trevin07/Income-Prediction)  
+
+Predicts income level using census and education/work data.  
+🧠 **Models Used:** Logistic Regression, SVM, Neural Network  
+📊 **Dataset:** Adult Census (UCI)  
+🛠️ **Tech Stack:** Python, Flask, scikit-learn, TensorFlow  
+
+---
+
+### 🏠 House Price Prediction  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Trevin07/House-price-prediction)  
+
+Estimates Bengaluru property prices using regression.  
+🧠 **Model Used:** Polynomial Regression  
+📊 **Dataset:** Kaggle  
+🛠️ **Tech Stack:** Python, pandas, seaborn  
+
+---
+
+## 🌱 Currently Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+</div>
+
+---
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/PyTorch_logo_black.svg" width="80" title="PyTorch">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" title="Scikit-learn">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="80" title="SQLite">
+  <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="600"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="600" />
-</p>
-
----
-
-_"Turning data into decisions, one model at a time!"_ 📊✨
+> "Data is the new oil, but AI is the refinery turning it into something valuable." 🚀
