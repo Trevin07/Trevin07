@@ -94,6 +94,24 @@
 
 ## 🚀 Projects & Applications
 
+
+---
+
+### 💳 Credit Card Default Prediction Web App
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/Trevin07/credit-default-predictor)
+
+A FastAPI-powered web application that predicts whether a credit card holder is at risk of defaulting on their next payment.
+
+* 🧠 **Model Used:** XGBoost (with Hyperparameter Tuning + Threshold Optimization)
+* 📊 **Dataset:** UCI Credit Card Dataset
+* 🛠️ **Tech Stack:** Python, FastAPI, HTML/CSS, scikit-learn, XGBoost, Jinja2
+* 📦 **Features Used:** Repayment history, age, bill amounts, marriage status, credit limits, etc.
+* 🎯 **Outputs:** Risk classification (High Risk / Low Risk) with probability and input summary
+
+---
+
+
 ### 📈📉 Time Series Stock Price Forecasting API  
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Trevin07/stock-predictor)  
 
