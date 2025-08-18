@@ -97,6 +97,16 @@
 
 ---
 
+### 📧 Spam Detection Web App  
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Trevin07/Spam_detection)  
+
+A FastAPI-powered web application that detects spam messages using a trained Random Forest classifier.  
+
+* 🧠 **Model Used:** Random Forest (Accuracy: **0.98**, F1-Score: **0.97**)  
+* 📊 **Dataset:** SMS Spam Collection Dataset  
+* 🛠️ **Tech Stack:** Python, FastAPI, HTML/CSS/JavaScript, Random Forest, Jinja2  
+* 🎯 **Outputs:** Classification (Spam / Not Spam) with <1s response rate
+
 ### 💳 Credit Card Default Prediction Web App
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/Trevin07/credit-default-predictor)
