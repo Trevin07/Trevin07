@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Trevin Rodrigo
 
 📍 Colombo, Sri Lanka 🇱🇰  
-🎓 Undergraduate in Industrial Statistics & Mathematical Finance  
+🎓 Graduate in Industrial Statistics & Mathematical Finance  
 📊 Data Science Advocate | Love all things Data 📈
 
 🌐 [**Visit My Website → trevin-rodrigo-eco8.vercel.app**](https://trevin-rodrigo-eco8.vercel.app/)
