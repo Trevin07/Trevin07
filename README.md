@@ -95,6 +95,38 @@
 
 ---
 
+### 🤖 AI-Powered CV Screening & Recruitment Automation Platform
+[![GitHub](https://img.shields.io/badge/Enterprise-Production_System-blue?style=for-the-badge)]()
+
+An end-to-end AI recruitment platform that automates candidate screening, ranking, and interview workflows from CV ingestion to hiring team review.
+
+* 🤖 **AI Stack:** Ollama (Qwen3:14B), Gemini 2.5 Flash, NLP-Based Candidate Matching
+* 📄 **JD Automation:** Generated job descriptions from hiring requirements with approval workflows for managers and directors
+* 📊 **Candidate Evaluation:** Automated CV analysis against approved JDs using semantic matching and scoring algorithms
+* 🏆 **Ranking Engine:** Identified and ranked the Top 10 candidates for Talent Acquisition review
+* ⚡ **Workflow Automation:** Automatically scheduled assessments, interviews, and candidate follow-ups after approval
+* 🛠️ **Tech Stack:** Python, Ollama, Gemini API, NLP, FastAPI, Automated Workflows
+* 🎯 **Impact:** Reduced manual recruitment screening effort by over 90% while significantly accelerating hiring cycles
+
+---
+
+### 🚘 AI-Driven Vehicle Valuation & ERP Mapping Pipeline
+[![GitHub](https://img.shields.io/badge/Enterprise-Production_System-blue?style=for-the-badge)]()
+
+An end-to-end automated data engineering platform that processes vehicle market data, performs statistical validation, and maps internal vehicle records to standardized ERP datasets using intelligent matching algorithms.
+
+* 🚗 **Automated Data Pipeline:** Cloud-based scraping, processing, validation, and valuation workflow
+* 📊 **Statistical Filtering:** Implemented IQR-based outlier detection to improve valuation accuracy and data quality
+* 🧠 **Matching Engine:** Developed a custom fuzzy matching system with token variant generation and heuristic scoring
+* 🔄 **Workflow Orchestration:** Fully containerized architecture orchestrated using Apache Airflow and Docker
+* ⚙️ **Algorithms:** Coverage Scoring, Precision Matching, Order Bonus Logic, and Substring Similarity Detection
+* 🛠️ **Tech Stack:** Python, Pandas, OpenPyXL, Apache Airflow, Docker, NLP, Data Engineering
+* ☁️ **Deployment:** Automated cloud-based data collection and processing pipeline with monitoring and scheduling
+* 💰 **Business Impact:** Helped mitigate potential valuation risks exceeding **LKR 100 Million+ per week**
+* ⏳ **Efficiency Gains:** Reduced manual mapping and preprocessing efforts from **2–3 days to a fully automated workflow**
+
+---  
+
 ### 📧 Spam Detection Web App  
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Trevin07/Spam_detection)  
 
