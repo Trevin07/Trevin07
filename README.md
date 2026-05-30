@@ -1,9 +1,14 @@
 # 👋 Hello, I'm Trevin Rodrigo
 
-🧑🏽‍💻 Associate Data Scientist at CDB Finance Sri Lanka
-📍 Colombo, Sri Lanka 🇱🇰  
-🎓 Graduate in Industrial Statistics & Mathematical Finance - University of Colombo
-📊 Data | AI  Advocate | Love all things Data 📈
+🧑🏽‍💻 Associate Data Scientist @ CDB Finance PLC
+
+🎓 Graduate in Industrial Statistics & Mathematical Finance  - University of Colombo
+
+📍 Colombo, Sri Lanka 🇱🇰
+
+💡 Passionate about Data Science, Artificial Intelligence, and Machine Learning
+
+📊 Building data-driven solutions that create real-world impact
 
 🌐 [**Visit My Website → trevin-rodrigo-eco8.vercel.app**](https://trevin-rodrigo-eco8.vercel.app/)
 
